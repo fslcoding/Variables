@@ -55,7 +55,7 @@ Console.WriteLine(age);
 
 ### Changing Variables
 
-If you have a variable with no value, you can set one with
+If you have a variable whose value you want to change, you can set one with:
 ```
 name = value;
 ```
