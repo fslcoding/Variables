@@ -1,14 +1,12 @@
 ﻿class Program {
-
-    public void Main(string[] args)
+    public static void Main(string[] args)
     {
 
-
         string hello = "World!";
-        int Age = 17;
+        int age = 17;
 
+        Console.WriteLine(hello);
+        Console.WriteLine(age);
 
     }
-
-
 }
