@@ -71,6 +71,6 @@ int x, y, z;
 
 
 ## Useful Links
-[W3 Schools Variables](https://www.w3schools.com/cs/cs_variables.php)
-[Basic IO Video](https://www.youtube.com/watch?v=CaLJjQj2Fs4&list=PLxIdR4guOqDMs0rAnTW8XbFce4J7dHLJZ&index=1)
-[Data Types Video](https://www.youtube.com/watch?v=ZqjfYfv5cQc&list=PLxIdR4guOqDMs0rAnTW8XbFce4J7dHLJZ&index=3)
+[W3 Schools Variables](https://www.w3schools.com/cs/cs_variables.php) <br>
+[Basic IO Video](https://www.youtube.com/watch?v=CaLJjQj2Fs4&list=PLxIdR4guOqDMs0rAnTW8XbFce4J7dHLJZ&index=1) <br>
+[Data Types Video](https://www.youtube.com/watch?v=ZqjfYfv5cQc&list=PLxIdR4guOqDMs0rAnTW8XbFce4J7dHLJZ&index=3) <br>
