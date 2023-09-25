@@ -10,14 +10,14 @@ A variable has:
 + A value
 
 If you do _not_ give the variable a value at creation, it is called **_Declaration_**
-```
+```cs
 type name;
 ```
 
 
 If you want, you can give it a value at creation, this is called **_Instantiation_**
 
-```
+```cs
 type name = value;
 ```
 
@@ -39,7 +39,7 @@ type name = value;
 
 To access a variable in your code, just call it's name:
 
-```
+```cs
 Console.WriteLine(age);
 ```
 
@@ -56,7 +56,7 @@ Console.WriteLine(age);
 ### Changing Variables
 
 If you have a variable whose value you want to change, you can set one with:
-```
+```cs
 name = value;
 ```
 _N.B. No type is specified!_
@@ -65,7 +65,7 @@ _N.B. No type is specified!_
 
 If needed, you can declare multiple variables in one line,
 however you will not be able to give them a value:
-```
+```cs
 int x, y, z;
 ```
 
