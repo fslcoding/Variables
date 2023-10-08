@@ -74,3 +74,17 @@ int x, y, z;
 [W3 Schools Variables](https://www.w3schools.com/cs/cs_variables.php) <br>
 [Basic IO Video](https://www.youtube.com/watch?v=CaLJjQj2Fs4&list=PLxIdR4guOqDMs0rAnTW8XbFce4J7dHLJZ&index=1) <br>
 [Data Types Video](https://www.youtube.com/watch?v=ZqjfYfv5cQc&list=PLxIdR4guOqDMs0rAnTW8XbFce4J7dHLJZ&index=3) <br>
+
+# Tasks
+
+**_Level One_**
+
++ Create some variables to store details about a user.
++ Print out the variables
+
+**_Level Two_**
++ Read in two `integers` from the user and add them
+
+**_Level Three_**
++ Read in two `integers` from the user and divide them
++ How would you store the result?
